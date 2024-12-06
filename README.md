@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 I am an environmental scientist with expertise in ecohydrology, ecophysiology and tree growth with a passion for data science and visualization. 
-Currently I advise the German Council of Experts on Climate Change issues on matters relating to land-use, forestry and agriculture as a policy and data analyst. 
+Currently I advise the _German Council of Experts on Climate Change Issues_ on matters relating to land-use, forestry and agriculture as a policy and data analyst. 
 Previously, I worked on projects relating to the restoration of oil sand mines, climate adaptation of urban trees and modelling ecological systems.
 Check out <a href="https://aglhurley.rbind.io/cv/hurley_cv.pdf/">my CV here</a>.
 
