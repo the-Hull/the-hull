@@ -19,7 +19,8 @@ Check out <a href="https://aglhurley.rbind.io/cv/hurley_cv.pdf/">my CV here</a> 
 - [remis](https://github.com/the-Hull/remis) - API wrapper to the [UNFCCC data api](https://di.unfccc.int/) developed for _[German Council of Experts on Climate Change Issues](https://expertenrat-klima.de/)_
 - [berlin.trees](https://github.com/the-Hull/berlin.trees) - Pipiline for ETL, analyses, visualization and report-generation for _Urban Ecosystems_ publication on [urban trees](https://link.springer.com/article/10.1007/s11252-023-01450-9)
 - [wob](https://github.com/the-Hull/weekly_oil_bulletin) - Continuous Integration to curate a database for the EU weekly oil bulletin  
-- [nextrip](https://github.com/the-Hull/nextrip) - Travel-Destination-Recommender, a final project for a full-time 3-month data science course at [Spiced-Academy](https://www.spiced-academy.com/en)
+- [p045_spiced_projects](https://github.com/the-Hull/p045_spiced_projects) - Projects for a full-time 3-month data science course at [Spiced-Academy](https://www.spiced-academy.com/en)
+- [nextrip](https://github.com/the-Hull/nextrip) - [Travel-Destination-Recommender](http://aglhurley.pythonanywhere.com/), a final project for a full-time 3-month data science course at [Spiced-Academy](https://www.spiced-academy.com/en)
 - [rhydro@EGU2019](https://github.com/hydrosoc/rhydro_EGU19) and [rhydro@EGU2018](https://github.com/hydrosoc/rhydro_EGU18) - short courses (co-)organized and delivered with peers from [YHS](https://younghs.com/)
 
 ---
