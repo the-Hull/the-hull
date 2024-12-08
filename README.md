@@ -26,7 +26,7 @@ Check out <a href="https://aglhurley.rbind.io/cv/hurley_cv.pdf/">my CV</a> and m
 
 ---
 
-[![Alex' GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=the-hull&include_orgs=true&include_all_commits=true)](https://github.com/the-hull/the-hull)
+[![Alex' GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=the-hull&include_orgs=true&include_all_commits=true&rank_icon=percentile&show_icons=true)](https://github.com/the-hull/the-hull)
 
 
 [![Alex' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-hull&hide=javascript,html,css,Lua)](https://github.com/the-hull)
